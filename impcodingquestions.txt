@@ -1,0 +1,57 @@
+﻿    1. Array:
+        1. Find the maximum or minimum element in an array.
+        2. Find the second largest element in an array.
+        3. Rotate an array by a given number of positions.
+        4. Remove duplicates from a sorted or unsorted array.
+        5. Find the intersection or union of two arrays.
+        6. Rearrange positive and negative numbers in an array.
+        7. Find the missing number in an array of integers.
+        8. Implement binary search or merge sort algorithm.
+        9. Reverse an array.
+        10. Find the sum or average of elements in an array.
+        11. Rearrange elements to separate even and odd numbers.
+        12. Find the kth largest or smallest element in an array.
+        13. Find the missing number in an array.
+        14. Calculate the sum or average of elements in an array.
+
+
+    2. String:
+        1. Check if a string is a palindrome.
+        2. Reverse a string.
+        3. Check if two strings are anagrams.
+        4. Count the occurrence of each character in a string.
+        5. Remove duplicate characters from a string.
+        6. Find the longest common prefix of an array of strings.
+        7. Implement string matching algorithms like KMP or Rabin-Karp.
+        8. Count the occurrence of a specific character in a string.
+        9. Find the length of the longest substring without repeating characters.
+        10. Replace all spaces in a string with "%20" (URL encoding).
+
+
+    3. Linked List:
+        1. Reverse a linked list.
+        2. Find the middle node of a linked list.
+        3. Detect and remove a loop in a linked list.
+        4. Merge two sorted linked lists.
+        5. Check if a linked list is a palindrome.
+        6. Delete a node from a singly linked list.
+        7. Find the intersection point of two linked lists.
+        8. Sort a linked list using merge sort or insertion sort.
+        9. Count the number of nodes in a linked list.
+        10. Check if a linked list is a palindrome.
+        11. Find the intersection point of two linked lists.
+
+
+    4. Stack and Queue:
+        1. Implement a stack or queue using an array or linked list.
+        2. Evaluate postfix or infix expressions using a stack.
+        3. Check if parentheses in an expression are balanced using a stack.
+        4. Implement a queue using two stacks.
+        5. Reverse the order of elements in a stack.
+        6. Implement a circular queue or a priority queue.
+        7. Reverse a string using a stack.
+        8. Implement a queue using two stacks.
+        9. Implement a stack using two queues.
+        10. Evaluate a postfix expression using a stack.
+        ◦ 
+
