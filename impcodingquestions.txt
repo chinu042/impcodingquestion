@@ -43,15 +43,18 @@
 
 
     4. Stack and Queue:
-        1. Implement a stack or queue using an array or linked list.
-        2. Evaluate postfix or infix expressions using a stack.
-        3. Check if parentheses in an expression are balanced using a stack.
-        4. Implement a queue using two stacks.
-        5. Reverse the order of elements in a stack.
-        6. Implement a circular queue or a priority queue.
-        7. Reverse a string using a stack.
-        8. Implement a queue using two stacks.
-        9. Implement a stack using two queues.
-        10. Evaluate a postfix expression using a stack.
+        1. Implement a stack using array.
+        2. Implement a stack using linked list. 
+        3. Implement queue using an array
+        4. Implement queue using a linked list.
+        5. Evaluate postfix expressions using a stack.
+        6. Evaluate infix expressions using a stack
+        7. Check if parentheses in an expression are balanced using a stack.
+        8. Reverse the order of elements in a stack.
+        9. Implement a circular queue or a priority queue.
+        10. Reverse a string using a stack.
+        11. Implement a queue using two stacks.
+        12. Implement a stack using two queues.
+
         ◦ 
 
