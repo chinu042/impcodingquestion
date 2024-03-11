@@ -56,5 +56,3 @@
         11. Implement a queue using two stacks.
         12. Implement a stack using two queues.
 
-        ◦ 
-
